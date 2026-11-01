@@ -43,4 +43,5 @@ Veckan består av både genomgångar och praktiska övningar där vi arbetar dir
 
 ### Övningar 
 
+* [React <3 TypeScript](https://github.com/fu-fullstack-webb25/week-45-exercise-react-typescript)
 
