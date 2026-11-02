@@ -32,7 +32,7 @@ Veckan består av både genomgångar och praktiska övningar där vi arbetar dir
 
 ### Lektionsrepon
 
-* []()
+* [2 nov](https://github.com/fu-fullstack-webb25/week-45-lecture-2-nov)
 
 ### Filmer
 
