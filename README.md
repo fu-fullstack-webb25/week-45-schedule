@@ -28,7 +28,8 @@ Veckan består av både genomgångar och praktiska övningar där vi arbetar dir
 
 ### Inspelade föreläsningar
 
-* []()
+* [Kursintro, 2 nov](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCoTg_337IdQ7mydBwQuT4RAZdK1nb1DGdutz7yC8U7FgI?e=RbRMnS)
+* [React med TypeScript - Task Tracker, 2 nov](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe25/IQCkcj81PQCgQ4QFPc6Gy_qKAe0QJVme3NObTcQ5MuDr3rc?e=yyQWH8)
 
 ### Lektionsrepon
 
